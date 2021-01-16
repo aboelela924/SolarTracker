@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "575551392851",
+    "firebase_url": "https://embeddedgps.firebaseio.com",
+    "project_id": "embeddedgps",
+    "storage_bucket": "embeddedgps.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:575551392851:android:de8a6e861de6a3a33c8aa6",
+        "android_client_info": {
+          "package_name": "com.bignerdranch.android.embeddedgps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "575551392851-o6blq2dvg3ocd4c9dibeho2jpjrj0637.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMOes7JM3HuhCoHwN_1kv343l6DBH9Biw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "575551392851-o6blq2dvg3ocd4c9dibeho2jpjrj0637.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
